@@ -1,4 +1,4 @@
-![encoded](https://encoded.gg/wordmark.png)
+![encoded](https://encodedsoftware.com/wordmark.png)
 
 # We're [Encoded](https://encodedsoftware.com)
 
