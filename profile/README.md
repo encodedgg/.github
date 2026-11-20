@@ -1,4 +1,4 @@
-<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/59e049c3-66d7-435f-ace2-1f79a6b87053" />
+<img width="1920" height="1080" alt="banner" src="https://github.com/user-attachments/assets/26fd91a1-6550-4cd4-acde-9b4eec73c45b" />
 
 # We're [Encoded](https://encodedsoftware.com)
 
